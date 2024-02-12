@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Bienvenu au site du cours Gérer ses finances personnelles!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
